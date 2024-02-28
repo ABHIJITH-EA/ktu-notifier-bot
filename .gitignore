@@ -4,3 +4,4 @@ error.txt
 log/**
 manager.sh
 data/announcement_skelton.db
+data/announcements.json
