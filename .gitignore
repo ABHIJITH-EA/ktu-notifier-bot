@@ -1,0 +1,6 @@
+**/*_bkp.*
+**/__pycache__
+error.txt
+log/**
+manager.sh
+data/announcement_skelton.db
